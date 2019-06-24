@@ -6,7 +6,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 spring:
   application:
-    name: consumer1
+    name: consumer
 
 feign:
   client:
