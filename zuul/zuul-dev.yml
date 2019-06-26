@@ -21,4 +21,5 @@ zuul:
     consumer2:
       path: /c2/**
       serviceId: consumer2
+  prefix: /api
 ##
